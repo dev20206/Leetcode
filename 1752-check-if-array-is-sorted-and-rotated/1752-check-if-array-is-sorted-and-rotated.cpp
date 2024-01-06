@@ -1,34 +1,22 @@
-#include <vector>
-
 class Solution {
 public:
-    bool check(std::vector<int>& nums) {
-        int n = nums.size();
-        
-        for (int i = 0; i < n; i++) {
-            std::vector<int> rotated(n);
-            
-            // Create the rotated array
-            for (int j = 0; j < n; j++) {
-                rotated[j] = nums[(j + i) % n];
-            }
-            
-            // Check if the rotated array is sorted
-            bool sorted = true;
-            for (int k = 1; k < n; k++) {
-                if (rotated[k] < rotated[k - 1]) {
-                    sorted = false;
-                    break;
-                }
-            }
-            
-            // If the rotated array is sorted, return true
-            if (sorted) {
-                return true;
+    bool check(vector<int>& num) {
+        int count=0;
+        int n=num.size();
+
+        for(int i=1;i<n;i++)
+        {
+            if(num[i-1]>num[i])
+            {
+                count++;
             }
         }
+        if(num[n-1]>num[0])
+        {
+            count++;
+        }
+
+        return count<=1;
         
-        // If no rotation resulted in a sorted array, return false
-        return false;
     }
 };
