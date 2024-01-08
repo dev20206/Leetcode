@@ -9,7 +9,7 @@ public:
         {
             if(nums[i]==0)
             {
-                temp[(k-1)%nums.size()]==0;
+                temp[(k-1)%nums.size()]=0;
                 k--;
             }
         }
