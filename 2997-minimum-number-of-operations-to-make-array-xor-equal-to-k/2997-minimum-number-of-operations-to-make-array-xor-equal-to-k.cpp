@@ -1,5 +1,4 @@
 #include <vector>
-#include <bitset>
 
 using namespace std;
 
@@ -11,15 +10,11 @@ public:
             xorSum ^= num;
         }
         
-        // Convert k to binary representation
-        bitset<32> kBinary(k);
-        
-        // Convert xorSum to binary representation
-        bitset<32> xorSumBinary(xorSum);
-        
         int operations = 0;
         for (int i = 31; i >= 0; --i) {
-            if (xorSumBinary[i] != kBinary[i]) {
+            int kBit = (k >> i) & 1; // Get i-th bit of k
+            int xorSumBit = (xorSum >> i) & 1; // Get i-th bit of xorSum
+            if (xorSumBit != kBit) {
                 ++operations;
             }
         }
