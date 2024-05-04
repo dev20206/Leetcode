@@ -4,14 +4,14 @@ public:
         if (n <= 1)
             return n;
 
-        vector<int> dp(n + 1);
-        dp[0] = 0;
-        dp[1] = 1;
-
-        for (int i = 2; i <= n; i++) {
-            dp[i] = dp[i - 1] + dp[i - 2];
+        int prev2 = 0;
+        int prev1 = 1;
+        int cur;
+        for(int i = 2; i <= n; i++) { // Start from i = 2, as we already have values for n = 0 and n = 1
+            cur = prev1 + prev2;
+            prev2 = prev1; // Update prev2 with the value of prev1
+            prev1 = cur;   // Update prev1 with the current value
         }
-
-        return dp[n];
+        return cur;
     }
 };
