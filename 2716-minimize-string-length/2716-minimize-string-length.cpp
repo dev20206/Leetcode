@@ -1,14 +1,11 @@
 class Solution {
 public:
     int minimizedStringLength(string s) {
-        int len = s.length();
-        int count = len;
-        sort(s.begin(),s.end());
-        for(int i = 1 ; i<len ; i++)
+        set<char>s1;
+        for(int i = 0; i < s.length() ; i++)
         {
-            if(s[i-1]==s[i])
-                count--;
+            s1.insert(s[i]);
         }
-        return count;
+        return s1.size();
     }
 };
