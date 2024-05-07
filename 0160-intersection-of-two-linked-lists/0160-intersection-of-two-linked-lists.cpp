@@ -8,26 +8,48 @@
  */
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *head1, ListNode *head2) {
-        ListNode * itr=head1;
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        struct ListNode* itr = headA;
+        int length1=0;
+        int length2=0;
+        int diff = 0;
         while(itr)
         {
-            itr->val=itr->val*-1;
+            length1++;
             itr=itr->next;
         }
-        itr=head2;
+         itr = headB;
         while(itr)
         {
-            if(itr->val <0)
-                break;
+            length2++;
             itr=itr->next;
         }
-        ListNode* temp=head1;
-        while(temp)
+        if(length1>length2)
         {
-            temp->val=temp->val*-1;
-            temp=temp->next;
+            diff = length1-length2;
+            while(diff--)
+            {
+                headA= headA->next;
+            }
         }
-        return itr;
+        if(length1<length2)
+        {
+            diff = length2-length1;
+            while(diff--)
+            {
+                headB= headB->next;
+            }
+        }
+        while(headA!=NULL && headB!=NULL)
+        {
+            if(headA==headB)
+                return headA;
+            headA=headA->next;
+            headB=headB->next;
+        }
+        return NULL;
+            
+            
+        
     }
 };
