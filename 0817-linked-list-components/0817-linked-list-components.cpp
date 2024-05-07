@@ -17,7 +17,7 @@ public:
 
         while (head != nullptr) {
             if (numSet.find(head->val) != numSet.end()) {
-                if (!connected)
+                if (connected==false)
                     count++;
                 connected = true;
             } else {
