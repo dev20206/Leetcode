@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dev20206/Leetcode/tree/master/0062-unique-paths) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dev20206/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -46,7 +47,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dev20206/Leetcode/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/dev20206/Leetcode/tree/master/0097-interleaving-string) |
 | [1170-shortest-common-supersequence](https://github.com/dev20206/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/dev20206/Leetcode/tree/master/1250-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dev20206/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
