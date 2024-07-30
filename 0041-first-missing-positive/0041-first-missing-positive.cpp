@@ -1,33 +1,24 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        vector<int> ans;
-        
-        // Filter out the positive numbers
-        for (int num : nums) {
-            if (num > 0) {
-                ans.push_back(num);
-            }
+    int n = nums.size();
+    
+    // Place each number in its correct position
+    for (int i = 0; i < n; ++i) {
+        while (nums[i] > 0 && nums[i] <= n && nums[nums[i] - 1] != nums[i]) {
+            swap(nums[i], nums[nums[i] - 1]);
         }
-        
-        // If there are no positive numbers, return 1
-        if (ans.empty()) {
-            return 1;
-        }
-
-        // Sort the positive numbers
-        sort(ans.begin(), ans.end());
-
-        // Find the first missing positive number
-        int smallestPositive = 1;
-        for (int num : ans) {
-            if (num == smallestPositive) {
-                smallestPositive++;
-            } else if (num > smallestPositive) {
-                break;
-            }
-        }
-        
-        return smallestPositive;
     }
+    
+    // Find the first missing positive
+    for (int i = 0; i < n; ++i) {
+        if (nums[i] != i + 1) {
+            return i + 1;
+        }
+    }
+    
+    // If all positions are correct, the missing number is n + 1
+    return n + 1;
+}
+
 };
