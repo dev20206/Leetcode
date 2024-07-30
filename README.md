@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dev20206/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/dev20206/Leetcode/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/dev20206/Leetcode/tree/master/0162-find-peak-element) |
 | [0966-binary-subarrays-with-sum](https://github.com/dev20206/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dev20206/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/dev20206/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/dev20206/Leetcode/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/dev20206/Leetcode/tree/master/0120-triangle) |
 | [1170-shortest-common-supersequence](https://github.com/dev20206/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/dev20206/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
