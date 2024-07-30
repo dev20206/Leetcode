@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/dev20206/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/dev20206/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/dev20206/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0778-reorganize-string](https://github.com/dev20206/Leetcode/tree/master/0778-reorganize-string) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/dev20206/Leetcode/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/dev20206/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/dev20206/Leetcode/tree/master/0120-triangle) |
