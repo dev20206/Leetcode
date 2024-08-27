@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dev20206/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/dev20206/Leetcode/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/dev20206/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -101,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dev20206/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/dev20206/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
