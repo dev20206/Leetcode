@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/dev20206/Leetcode/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/dev20206/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/dev20206/Leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/dev20206/Leetcode/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/dev20206/Leetcode/tree/master/0162-find-peak-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -108,4 +109,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/dev20206/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dev20206/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/dev20206/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dev20206/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
