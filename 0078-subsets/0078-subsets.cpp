@@ -1,26 +1,24 @@
 class Solution {
 public:
 
-    void recursion(int index, int n, vector<int>&nums, vector<int>&ds , vector<vector<int>>&ans)
-    {
-        if(index==n)
-        {
-            ans.push_back(ds);
-            return;
+    void recursion(int index, vector<int>& nums, vector<int>& ds, vector<vector<int>>& ans) {
+        ans.push_back(ds);
+        
+        for (int i = index; i < nums.size(); i++) {
+            // Skip duplicates to ensure unique subsets
+            if (i != index && nums[i] == nums[i - 1]) {
+                continue;
+            }
+            ds.push_back(nums[i]);
+            recursion(i + 1, nums, ds, ans);  // Move to the next index for recursion
+            ds.pop_back();  // Backtrack to explore other subsets
         }
-
-        ds.push_back(nums[index]);
-        recursion(index+1, n, nums,ds,ans);
-
-        ds.pop_back();
-        recursion(index+1,n , nums,ds,ans);
-
     }
-    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>>ans;
         vector<int>ds;
         int n = nums.size();
-        recursion(0,n,nums,ds,ans);
+        recursion(0,nums,ds,ans);
         return ans;
         
     }
