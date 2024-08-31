@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dev20206/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/dev20206/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/dev20206/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/dev20206/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dev20206/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dev20206/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dev20206/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/dev20206/Leetcode/tree/master/0041-first-missing-positive) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dev20206/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/dev20206/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Sorting
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dev20206/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dev20206/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dev20206/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dev20206/Leetcode/tree/master/0046-permutations) |
