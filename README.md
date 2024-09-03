@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/dev20206/Leetcode/tree/master/0778-reorganize-string) |
 | [1170-shortest-common-supersequence](https://github.com/dev20206/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/dev20206/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/dev20206/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/dev20206/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dev20206/Leetcode/tree/master/0090-subsets-ii) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/dev20206/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
