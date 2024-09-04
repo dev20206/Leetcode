@@ -1,6 +1,8 @@
 class Solution {
 public:
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
      unordered_map<string,int>mpp;
 
      for(auto it:obstacles)
