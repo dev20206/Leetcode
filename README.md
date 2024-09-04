@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/dev20206/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/dev20206/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0778-reorganize-string](https://github.com/dev20206/Leetcode/tree/master/0778-reorganize-string) |
+| [0906-walking-robot-simulation](https://github.com/dev20206/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/dev20206/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dev20206/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/dev20206/Leetcode/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/dev20206/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0906-walking-robot-simulation](https://github.com/dev20206/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/dev20206/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dev20206/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
@@ -131,5 +133,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/dev20206/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dev20206/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
