@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/dev20206/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/dev20206/Leetcode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/dev20206/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/dev20206/Leetcode/tree/master/0097-interleaving-string) |
