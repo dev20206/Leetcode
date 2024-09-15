@@ -1,59 +1,50 @@
 class Solution {
 public:
+    void prefix_table(string needle, int n, vector<int>& f) {
+        int i = 1, j = 0;
+        f[0] = 0;
+        
+        // Build the prefix table (failure function)
+        while (i < n) {
+            if (needle[i] == needle[j]) {
+                f[i] = j + 1;
+                i++;
+                j++;
+            } else if (j > 0) {
+                j = f[j - 1];
+            } else {
+                f[i] = 0;
+                i++;
+            }
+        }
+    }
+
     int strStr(string haystack, string needle) {
-        // Check for the edge case where needle is an empty string
-        if (needle.empty()) return 0;
+        int m = haystack.size();
+        int n = needle.size();
+        
+        if (n == 0) return 0; // If needle is empty, return 0
+        
+        vector<int> f(n);
+        prefix_table(needle, n, f); // Pass the needle and its size
 
-        int d = 256;  // Number of characters in the input alphabet
-        int q = 101;  // A prime number
-        int m = haystack.length();
-        int n = needle.length();
+        int i = 0, j = 0;
 
-        // If needle is longer than haystack, no match is possible
-        if (n > m) return -1;
+        while (i < m) {
+            if (haystack[i] == needle[j]) {
+                i++;
+                j++;
 
-        int p = 0;  // Hash value for needle
-        int t = 0;  // Hash value for haystack
-        int h = 1;
-
-        // The value of h would be "pow(d, n-1) % q"
-        for (int i = 0; i < n - 1; i++)
-            h = (h * d) % q;
-
-        // Calculate the hash value of needle and the first window of haystack
-        for (int i = 0; i < n; i++) {
-            p = (d * p + needle[i]) % q;
-            t = (d * t + haystack[i]) % q;
-        }
-
-        // Slide the pattern over text one by one
-        for (int i = 0; i <= m - n; i++) {
-            // Check the hash values of current window of text and pattern.
-            // If the hash values match then only check for characters one by one
-            if (p == t) {
-                // Check for characters one by one
-                int j;
-                for (j = 0; j < n; j++) {
-                    if (haystack[i + j] != needle[j])
-                        break;
+                if (j == n) {
+                    return i - j; // Match found, return the start index
                 }
-
-                // If p == t and needle[0...n-1] = haystack[i, i+1, ...i+n-1]
-                if (j == n)
-                    return i;
-            }
-
-            // Calculate hash value for next window of haystack: Remove leading digit,
-            // add trailing digit
-            if (i < m - n) {
-                t = (d * (t - haystack[i] * h) + haystack[i + n]) % q;
-
-                // We might get negative value of t, converting it to positive
-                if (t < 0)
-                    t = (t + q);
+            } else if (j > 0) {
+                j = f[j - 1]; // Use failure function to avoid redundant comparisons
+            } else {
+                i++;
             }
         }
-
-        return -1;  // If no match is found
+        
+        return -1; // No match found
     }
 };
