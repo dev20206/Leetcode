@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/dev20206/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/dev20206/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0468-validate-ip-address](https://github.com/dev20206/Leetcode/tree/master/0468-validate-ip-address) |
+| [0539-minimum-time-difference](https://github.com/dev20206/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0778-reorganize-string](https://github.com/dev20206/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/dev20206/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dev20206/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/dev20206/Leetcode/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/dev20206/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/dev20206/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/dev20206/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/dev20206/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dev20206/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/dev20206/Leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/dev20206/Leetcode/tree/master/0062-unique-paths) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/dev20206/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dev20206/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/dev20206/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0778-reorganize-string](https://github.com/dev20206/Leetcode/tree/master/0778-reorganize-string) |
 ## Greedy
 |  |
