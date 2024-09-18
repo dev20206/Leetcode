@@ -79,12 +79,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/dev20206/Leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/dev20206/Leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/dev20206/Leetcode/tree/master/0069-sqrtx) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/dev20206/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dev20206/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/dev20206/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/dev20206/Leetcode/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
 |  |
