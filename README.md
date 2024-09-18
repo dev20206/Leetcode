@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/dev20206/Leetcode/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/dev20206/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/dev20206/Leetcode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dev20206/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/dev20206/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/dev20206/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/dev20206/Leetcode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dev20206/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/dev20206/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0778-reorganize-string](https://github.com/dev20206/Leetcode/tree/master/0778-reorganize-string) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dev20206/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0778-reorganize-string](https://github.com/dev20206/Leetcode/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
@@ -176,4 +179,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev20206/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dev20206/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dev20206/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
