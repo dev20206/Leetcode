@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/dev20206/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/dev20206/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev20206/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/dev20206/Leetcode/tree/master/0148-sort-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dev20206/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
 |  |
@@ -181,12 +183,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev20206/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0148-sort-list](https://github.com/dev20206/Leetcode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/dev20206/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev20206/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dev20206/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dev20206/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
