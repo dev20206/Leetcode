@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/dev20206/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/dev20206/Leetcode/tree/master/0148-sort-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dev20206/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/dev20206/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev20206/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
