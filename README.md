@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/dev20206/Leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/dev20206/Leetcode/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dev20206/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1170-shortest-common-supersequence](https://github.com/dev20206/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/dev20206/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -147,11 +148,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/dev20206/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dev20206/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/dev20206/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dev20206/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Backtracking
@@ -222,5 +225,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/dev20206/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
