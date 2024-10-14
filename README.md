@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/dev20206/Leetcode/tree/master/1036-rotting-oranges) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dev20206/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev20206/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dev20206/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dev20206/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/dev20206/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dev20206/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/dev20206/Leetcode/tree/master/0778-reorganize-string) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dev20206/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/dev20206/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/dev20206/Leetcode/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev20206/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dev20206/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -233,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/dev20206/Leetcode/tree/master/1036-rotting-oranges) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dev20206/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
