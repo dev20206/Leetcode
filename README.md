@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/dev20206/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dev20206/Leetcode/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/dev20206/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/dev20206/Leetcode/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/dev20206/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/dev20206/Leetcode/tree/master/0179-largest-number) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/dev20206/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/dev20206/Leetcode/tree/master/0097-interleaving-string) |
+| [0119-pascals-triangle-ii](https://github.com/dev20206/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/dev20206/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dev20206/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
