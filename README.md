@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/dev20206/Leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/dev20206/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/dev20206/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/dev20206/Leetcode/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dev20206/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/dev20206/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dev20206/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/dev20206/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dev20206/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/dev20206/Leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/dev20206/Leetcode/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/dev20206/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/dev20206/Leetcode/tree/master/0120-triangle) |
@@ -245,4 +247,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dev20206/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dev20206/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
