@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/dev20206/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dev20206/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dev20206/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/dev20206/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,11 +78,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/dev20206/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev20206/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dev20206/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/dev20206/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dev20206/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/dev20206/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/dev20206/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
 |  |
 | ------- |
