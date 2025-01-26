@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/dev20206/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev20206/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dev20206/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/dev20206/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/dev20206/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dev20206/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dev20206/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/dev20206/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dev20206/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dev20206/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
