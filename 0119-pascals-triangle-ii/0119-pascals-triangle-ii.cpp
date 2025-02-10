@@ -1,23 +1,17 @@
 class Solution {
 public:
-    long long funncr(int n, int r)
-    {
-        long long res = 1;
-        for(int i = 0 ; i<r ; i++)
-        {
-            res = res * (n-i);
-            res = res/(i+1);
-        }
-        return res;
-    }
     vector<int> getRow(int rowIndex) {
-        vector<int>ans;
-        int n = rowIndex;
-        for(int i = 0 ; i<=n ; i++)
+
+        long long ans = 1;
+        vector<int>answer(rowIndex+1,1);
+
+        for(int i = 1 ; i <rowIndex ; i++)
         {
-            long long temp = funncr(rowIndex,i);
-            ans.push_back(static_cast<int>(temp));
+            ans = ans*(rowIndex-i+1);
+            ans=ans/i;
+            answer[i]=ans;
         }
-        return ans;
+        return answer;
+        
     }
 };
