@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dev20206/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2411-spiral-matrix-iv](https://github.com/dev20206/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dev20206/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dev20206/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dev20206/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
