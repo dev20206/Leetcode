@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/dev20206/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/dev20206/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dev20206/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [3310-remove-methods-from-project](https://github.com/dev20206/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/dev20206/Leetcode/tree/master/1036-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/dev20206/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Counting Sort
 |  |
 | ------- |
@@ -279,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dev20206/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dev20206/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/dev20206/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
