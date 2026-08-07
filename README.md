@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/dev20206/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dev20206/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dev20206/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dev20206/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev20206/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dev20206/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dev20206/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dev20206/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dev20206/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dev20206/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dev20206/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dev20206/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/dev20206/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dev20206/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/dev20206/Leetcode/tree/master/0216-combination-sum-iii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dev20206/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -281,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dev20206/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dev20206/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dev20206/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Graph Theory
 |  |
 | ------- |
